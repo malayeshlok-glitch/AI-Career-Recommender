@@ -1,0 +1,777 @@
+[
+  {
+    "question_id": "APT001",
+    "category": "Aptitude",
+    "question_text": "If a train travels 60 km in 45 minutes, what is its speed in km/h?",
+    "options": [
+      "60 km/h",
+      "80 km/h",
+      "90 km/h",
+      "100 km/h"
+    ],
+    "correct_option": "B",
+    "weight_dimension": null
+  },
+  {
+    "question_id": "APT002",
+    "category": "Aptitude",
+    "question_text": "A shop gives a 20% discount on a item priced at ₹500. What is the sale price?",
+    "options": [
+      "₹400",
+      "₹420",
+      "₹450",
+      "₹480"
+    ],
+    "correct_option": "A",
+    "weight_dimension": null
+  },
+  {
+    "question_id": "APT003",
+    "category": "Aptitude",
+    "question_text": "What is the next number in the series: 2, 6, 12, 20, 30, ?",
+    "options": [
+      "36",
+      "40",
+      "42",
+      "44"
+    ],
+    "correct_option": "C",
+    "weight_dimension": null
+  },
+  {
+    "question_id": "APT004",
+    "category": "Aptitude",
+    "question_text": "If 5 workers can build a wall in 12 days, how many days will 10 workers take?",
+    "options": [
+      "3",
+      "4",
+      "6",
+      "8"
+    ],
+    "correct_option": "C",
+    "weight_dimension": null
+  },
+  {
+    "question_id": "APT005",
+    "category": "Aptitude",
+    "question_text": "Find the odd one out: Apple, Banana, Carrot, Mango",
+    "options": [
+      "Apple",
+      "Banana",
+      "Carrot",
+      "Mango"
+    ],
+    "correct_option": "C",
+    "weight_dimension": null
+  },
+  {
+    "question_id": "APT006",
+    "category": "Aptitude",
+    "question_text": "A is twice as old as B. If B is 15, how old is A?",
+    "options": [
+      "25",
+      "28",
+      "30",
+      "32"
+    ],
+    "correct_option": "C",
+    "weight_dimension": null
+  },
+  {
+    "question_id": "APT007",
+    "category": "Aptitude",
+    "question_text": "What is 15% of 240?",
+    "options": [
+      "30",
+      "36",
+      "40",
+      "42"
+    ],
+    "correct_option": "B",
+    "weight_dimension": null
+  },
+  {
+    "question_id": "APT008",
+    "category": "Aptitude",
+    "question_text": "Choose the word most similar in meaning to 'Abundant'.",
+    "options": [
+      "Scarce",
+      "Plentiful",
+      "Limited",
+      "Rare"
+    ],
+    "correct_option": "B",
+    "weight_dimension": null
+  },
+  {
+    "question_id": "APT009",
+    "category": "Aptitude",
+    "question_text": "A worker earns ₹800 for 8 hours of work. How much does she earn for 5 hours at the same rate?",
+    "options": [
+      "₹400",
+      "₹450",
+      "₹500",
+      "₹550"
+    ],
+    "correct_option": "C",
+    "weight_dimension": null
+  },
+  {
+    "question_id": "APT010",
+    "category": "Aptitude",
+    "question_text": "A car covers 150 km using 10 litres of fuel. How far can it go on 25 litres?",
+    "options": [
+      "300 km",
+      "350 km",
+      "375 km",
+      "400 km"
+    ],
+    "correct_option": "C",
+    "weight_dimension": null
+  },
+  {
+    "question_id": "TEC001",
+    "category": "Technical",
+    "question_text": "Which data structure uses LIFO (Last In First Out) order?",
+    "options": [
+      "Queue",
+      "Stack",
+      "Array",
+      "Linked List"
+    ],
+    "correct_option": "B",
+    "weight_dimension": null
+  },
+  {
+    "question_id": "TEC002",
+    "category": "Technical",
+    "question_text": "What does HTML stand for?",
+    "options": [
+      "Hyper Trainer Markup Language",
+      "HyperText Markup Language",
+      "Hyper Text Making Language",
+      "None of these"
+    ],
+    "correct_option": "B",
+    "weight_dimension": null
+  },
+  {
+    "question_id": "TEC003",
+    "category": "Technical",
+    "question_text": "Which of the following is NOT a programming paradigm?",
+    "options": [
+      "Object-Oriented",
+      "Functional",
+      "Sequential Design",
+      "Procedural"
+    ],
+    "correct_option": "C",
+    "weight_dimension": null
+  },
+  {
+    "question_id": "TEC004",
+    "category": "Technical",
+    "question_text": "In Python, which keyword is used to define a function?",
+    "options": [
+      "func",
+      "def",
+      "function",
+      "define"
+    ],
+    "correct_option": "B",
+    "weight_dimension": null
+  },
+  {
+    "question_id": "TEC005",
+    "category": "Technical",
+    "question_text": "What is the time complexity of binary search on a sorted array?",
+    "options": [
+      "O(n)",
+      "O(log n)",
+      "O(n^2)",
+      "O(1)"
+    ],
+    "correct_option": "B",
+    "weight_dimension": null
+  },
+  {
+    "question_id": "TEC006",
+    "category": "Technical",
+    "question_text": "Which of these is a relational database management system?",
+    "options": [
+      "MongoDB",
+      "Redis",
+      "MySQL",
+      "Firebase"
+    ],
+    "correct_option": "C",
+    "weight_dimension": null
+  },
+  {
+    "question_id": "TEC007",
+    "category": "Technical",
+    "question_text": "What does 'API' stand for?",
+    "options": [
+      "Application Programming Interface",
+      "Applied Program Instruction",
+      "Advanced Programming Interface",
+      "Automated Program Interaction"
+    ],
+    "correct_option": "A",
+    "weight_dimension": null
+  },
+  {
+    "question_id": "TEC008",
+    "category": "Technical",
+    "question_text": "Which HTTP method is typically used to update an existing resource?",
+    "options": [
+      "GET",
+      "POST",
+      "PUT",
+      "DELETE"
+    ],
+    "correct_option": "C",
+    "weight_dimension": null
+  },
+  {
+    "question_id": "TEC009",
+    "category": "Technical",
+    "question_text": "What is the primary purpose of version control systems like Git?",
+    "options": [
+      "Compile code faster",
+      "Track and manage code changes",
+      "Design user interfaces",
+      "Encrypt source code"
+    ],
+    "correct_option": "B",
+    "weight_dimension": null
+  },
+  {
+    "question_id": "TEC010",
+    "category": "Technical",
+    "question_text": "Which of the following best describes 'Big-O notation'?",
+    "options": [
+      "A way to comment code",
+      "A measure of algorithm efficiency/growth rate",
+      "A type of database",
+      "A network protocol"
+    ],
+    "correct_option": "B",
+    "weight_dimension": null
+  },
+  {
+    "question_id": "LOG001",
+    "category": "Logical",
+    "question_text": "Pointing to a man, Rita said, 'His mother is the only daughter of my mother.' How is Rita related to the man?",
+    "options": [
+      "Sister",
+      "Mother",
+      "Aunt",
+      "Grandmother"
+    ],
+    "correct_option": "B",
+    "weight_dimension": null
+  },
+  {
+    "question_id": "LOG002",
+    "category": "Logical",
+    "question_text": "Complete the analogy: Pen is to Write as Knife is to ___",
+    "options": [
+      "Sharp",
+      "Cut",
+      "Kitchen",
+      "Blade"
+    ],
+    "correct_option": "B",
+    "weight_dimension": null
+  },
+  {
+    "question_id": "LOG003",
+    "category": "Logical",
+    "question_text": "If all Bloops are Razzies and all Razzies are Lazzies, are all Bloops definitely Lazzies?",
+    "options": [
+      "Yes",
+      "No",
+      "Cannot be determined",
+      "Only sometimes"
+    ],
+    "correct_option": "A",
+    "weight_dimension": null
+  },
+  {
+    "question_id": "LOG004",
+    "category": "Logical",
+    "question_text": "Which figure completes the pattern: Circle, Square, Triangle, Circle, Square, ?",
+    "options": [
+      "Circle",
+      "Square",
+      "Triangle",
+      "Pentagon"
+    ],
+    "correct_option": "C",
+    "weight_dimension": null
+  },
+  {
+    "question_id": "LOG005",
+    "category": "Logical",
+    "question_text": "Five friends are sitting in a row. A is to the left of B but right of C. D is to the right of B. Who is in the middle?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct_option": "A",
+    "weight_dimension": null
+  },
+  {
+    "question_id": "LOG006",
+    "category": "Logical",
+    "question_text": "If 'MONEY' is coded as 'NPOFZ', how is 'TIME' coded?",
+    "options": [
+      "UJMF",
+      "UJNF",
+      "SJME",
+      "UINF"
+    ],
+    "correct_option": "B",
+    "weight_dimension": null
+  },
+  {
+    "question_id": "LOG007",
+    "category": "Logical",
+    "question_text": "A clock shows 3:15. What is the angle between the hour and minute hands?",
+    "options": [
+      "0 degrees",
+      "7.5 degrees",
+      "15 degrees",
+      "30 degrees"
+    ],
+    "correct_option": "B",
+    "weight_dimension": null
+  },
+  {
+    "question_id": "LOG008",
+    "category": "Logical",
+    "question_text": "Which number does not belong: 4, 9, 16, 23, 25, 36?",
+    "options": [
+      "9",
+      "16",
+      "23",
+      "25"
+    ],
+    "correct_option": "C",
+    "weight_dimension": null
+  },
+  {
+    "question_id": "LOG009",
+    "category": "Logical",
+    "question_text": "If today is Wednesday, what day will it be after 100 days?",
+    "options": [
+      "Monday",
+      "Tuesday",
+      "Friday",
+      "Sunday"
+    ],
+    "correct_option": "C",
+    "weight_dimension": null
+  },
+  {
+    "question_id": "LOG010",
+    "category": "Logical",
+    "question_text": "Statement: All cats are animals. Some animals are pets. Conclusion: Some cats are pets. Is this valid?",
+    "options": [
+      "Valid",
+      "Invalid — cannot be concluded",
+      "Always true",
+      "Always false"
+    ],
+    "correct_option": "B",
+    "weight_dimension": null
+  },
+  {
+    "question_id": "ISWL01",
+    "category": "Interest-interest_software-Likert",
+    "question_text": "I enjoy writing code to build applications or websites.",
+    "options": [
+      "Strongly Disagree",
+      "Disagree",
+      "Neutral",
+      "Agree",
+      "Strongly Agree"
+    ],
+    "correct_option": null,
+    "weight_dimension": "interest_software"
+  },
+  {
+    "question_id": "IDAL01",
+    "category": "Interest-interest_data-Likert",
+    "question_text": "I enjoy working with numbers, spreadsheets, and finding patterns in data.",
+    "options": [
+      "Strongly Disagree",
+      "Disagree",
+      "Neutral",
+      "Agree",
+      "Strongly Agree"
+    ],
+    "correct_option": null,
+    "weight_dimension": "interest_data"
+  },
+  {
+    "question_id": "ICEL01",
+    "category": "Interest-interest_core_engg-Likert",
+    "question_text": "I am curious about how physical machines and hardware systems work.",
+    "options": [
+      "Strongly Disagree",
+      "Disagree",
+      "Neutral",
+      "Agree",
+      "Strongly Agree"
+    ],
+    "correct_option": null,
+    "weight_dimension": "interest_core_engg"
+  },
+  {
+    "question_id": "IMGL01",
+    "category": "Interest-interest_management-Likert",
+    "question_text": "I enjoy organizing people and coordinating tasks in a team.",
+    "options": [
+      "Strongly Disagree",
+      "Disagree",
+      "Neutral",
+      "Agree",
+      "Strongly Agree"
+    ],
+    "correct_option": null,
+    "weight_dimension": "interest_management"
+  },
+  {
+    "question_id": "IDSL01",
+    "category": "Interest-interest_design-Likert",
+    "question_text": "I enjoy creating visually appealing layouts or graphics.",
+    "options": [
+      "Strongly Disagree",
+      "Disagree",
+      "Neutral",
+      "Agree",
+      "Strongly Agree"
+    ],
+    "correct_option": null,
+    "weight_dimension": "interest_design"
+  },
+  {
+    "question_id": "FC001",
+    "category": "Interest-ForcedChoice",
+    "question_text": "If you were assigned a college project, which task would you naturally take up?",
+    "options": [
+      "Coding the working prototype",
+      "Analyzing the collected data",
+      "Building/wiring the hardware component",
+      "Managing the timeline and team coordination",
+      "Designing the poster/UI/presentation"
+    ],
+    "correct_option": null,
+    "weight_dimension": null,
+    "option_dimension_map": {
+      "A": "interest_software",
+      "B": "interest_data",
+      "C": "interest_core_engg",
+      "D": "interest_management",
+      "E": "interest_design"
+    }
+  },
+  {
+    "question_id": "FC002",
+    "category": "Interest-ForcedChoice",
+    "question_text": "Pick the college club/activity you'd be most interested in joining.",
+    "options": [
+      "Coding club",
+      "Data science / analytics club",
+      "Robotics / electronics club",
+      "Student council / event management committee",
+      "Design / fine arts club"
+    ],
+    "correct_option": null,
+    "weight_dimension": null,
+    "option_dimension_map": {
+      "A": "interest_software",
+      "B": "interest_data",
+      "C": "interest_core_engg",
+      "D": "interest_management",
+      "E": "interest_design"
+    }
+  },
+  {
+    "question_id": "FC003",
+    "category": "Interest-ForcedChoice",
+    "question_text": "Which internship would appeal to you most?",
+    "options": [
+      "Software development intern",
+      "Data analyst intern",
+      "Core/mechanical engineering intern",
+      "Business operations/management intern",
+      "UI/UX design intern"
+    ],
+    "correct_option": null,
+    "weight_dimension": null,
+    "option_dimension_map": {
+      "A": "interest_software",
+      "B": "interest_data",
+      "C": "interest_core_engg",
+      "D": "interest_management",
+      "E": "interest_design"
+    }
+  },
+  {
+    "question_id": "FC004",
+    "category": "Interest-ForcedChoice",
+    "question_text": "In a group project, which role would you naturally gravitate to?",
+    "options": [
+      "Developer writing the code",
+      "Analyst studying the numbers/results",
+      "Hardware/technical troubleshooter",
+      "Team lead coordinating everyone",
+      "Visual/creative lead"
+    ],
+    "correct_option": null,
+    "weight_dimension": null,
+    "option_dimension_map": {
+      "A": "interest_software",
+      "B": "interest_data",
+      "C": "interest_core_engg",
+      "D": "interest_management",
+      "E": "interest_design"
+    }
+  },
+  {
+    "question_id": "FC005",
+    "category": "Interest-ForcedChoice",
+    "question_text": "Which weekend activity sounds most fun to you?",
+    "options": [
+      "Building a small app or website for fun",
+      "Exploring an interesting dataset or dashboard",
+      "Tinkering with a gadget or circuit",
+      "Organizing a group event or trip",
+      "Sketching, photography, or design work"
+    ],
+    "correct_option": null,
+    "weight_dimension": null,
+    "option_dimension_map": {
+      "A": "interest_software",
+      "B": "interest_data",
+      "C": "interest_core_engg",
+      "D": "interest_management",
+      "E": "interest_design"
+    }
+  },
+  {
+    "question_id": "FC006",
+    "category": "Interest-ForcedChoice",
+    "question_text": "Which magazine/blog would you enjoy reading?",
+    "options": [
+      "Tech/coding blog",
+      "Data science / analytics blog",
+      "Engineering/electronics magazine",
+      "Business/management magazine",
+      "Design/art magazine"
+    ],
+    "correct_option": null,
+    "weight_dimension": null,
+    "option_dimension_map": {
+      "A": "interest_software",
+      "B": "interest_data",
+      "C": "interest_core_engg",
+      "D": "interest_management",
+      "E": "interest_design"
+    }
+  },
+  {
+    "question_id": "FC007",
+    "category": "Interest-ForcedChoice",
+    "question_text": "Choose the skill you'd most like to master next.",
+    "options": [
+      "A new programming language",
+      "Data visualization / statistics",
+      "Circuit design / CAD tools",
+      "Leadership / negotiation",
+      "Graphic design tools"
+    ],
+    "correct_option": null,
+    "weight_dimension": null,
+    "option_dimension_map": {
+      "A": "interest_software",
+      "B": "interest_data",
+      "C": "interest_core_engg",
+      "D": "interest_management",
+      "E": "interest_design"
+    }
+  },
+  {
+    "question_id": "FC008",
+    "category": "Interest-ForcedChoice",
+    "question_text": "Which college elective would you pick if free to choose?",
+    "options": [
+      "Software Engineering",
+      "Data Science",
+      "Core/Mechanical Engineering",
+      "Business Management",
+      "Visual Communication Design"
+    ],
+    "correct_option": null,
+    "weight_dimension": null,
+    "option_dimension_map": {
+      "A": "interest_software",
+      "B": "interest_data",
+      "C": "interest_core_engg",
+      "D": "interest_management",
+      "E": "interest_design"
+    }
+  },
+  {
+    "question_id": "FC009",
+    "category": "Interest-ForcedChoice",
+    "question_text": "Which task would you enjoy doing for a college fest?",
+    "options": [
+      "Building the fest's registration app",
+      "Analyzing footfall/feedback data from last year",
+      "Setting up the sound/lighting/electronics",
+      "Planning logistics and managing volunteers",
+      "Designing the posters and stage backdrop"
+    ],
+    "correct_option": null,
+    "weight_dimension": null,
+    "option_dimension_map": {
+      "A": "interest_software",
+      "B": "interest_data",
+      "C": "interest_core_engg",
+      "D": "interest_management",
+      "E": "interest_design"
+    }
+  },
+  {
+    "question_id": "FC010",
+    "category": "Interest-ForcedChoice",
+    "question_text": "If given a laptop for a day with no assignment, what would you do?",
+    "options": [
+      "Try building a small program",
+      "Play with a spreadsheet/dataset",
+      "Research how a device/machine works",
+      "Plan/schedule upcoming tasks",
+      "Try out a design/photo-editing tool"
+    ],
+    "correct_option": null,
+    "weight_dimension": null,
+    "option_dimension_map": {
+      "A": "interest_software",
+      "B": "interest_data",
+      "C": "interest_core_engg",
+      "D": "interest_management",
+      "E": "interest_design"
+    }
+  },
+  {
+    "question_id": "FC011",
+    "category": "Interest-ForcedChoice",
+    "question_text": "Which career fair booth would you visit first?",
+    "options": [
+      "A software company",
+      "A data analytics firm",
+      "A core engineering/manufacturing company",
+      "A consulting/management firm",
+      "A design studio"
+    ],
+    "correct_option": null,
+    "weight_dimension": null,
+    "option_dimension_map": {
+      "A": "interest_software",
+      "B": "interest_data",
+      "C": "interest_core_engg",
+      "D": "interest_management",
+      "E": "interest_design"
+    }
+  },
+  {
+    "question_id": "FC012",
+    "category": "Interest-ForcedChoice",
+    "question_text": "Pick the video you'd click on first.",
+    "options": [
+      "'Build your first app'",
+      "'Understanding data trends'",
+      "'How engines work'",
+      "'How to lead a team'",
+      "'Design principles explained'"
+    ],
+    "correct_option": null,
+    "weight_dimension": null,
+    "option_dimension_map": {
+      "A": "interest_software",
+      "B": "interest_data",
+      "C": "interest_core_engg",
+      "D": "interest_management",
+      "E": "interest_design"
+    }
+  },
+  {
+    "question_id": "FC013",
+    "category": "Interest-ForcedChoice",
+    "question_text": "In a group assignment, what feedback do you usually get?",
+    "options": [
+      "Good at solving technical/coding problems",
+      "Good at spotting patterns/numbers",
+      "Good with hands-on/technical building",
+      "Good at organizing and leading",
+      "Good with visuals and presentation"
+    ],
+    "correct_option": null,
+    "weight_dimension": null,
+    "option_dimension_map": {
+      "A": "interest_software",
+      "B": "interest_data",
+      "C": "interest_core_engg",
+      "D": "interest_management",
+      "E": "interest_design"
+    }
+  },
+  {
+    "question_id": "FC014",
+    "category": "Interest-ForcedChoice",
+    "question_text": "Which competition would you like to join?",
+    "options": [
+      "Hackathon",
+      "Data science / analytics challenge",
+      "Robotics competition",
+      "Business case study competition",
+      "Design/UI challenge"
+    ],
+    "correct_option": null,
+    "weight_dimension": null,
+    "option_dimension_map": {
+      "A": "interest_software",
+      "B": "interest_data",
+      "C": "interest_core_engg",
+      "D": "interest_management",
+      "E": "interest_design"
+    }
+  },
+  {
+    "question_id": "FC015",
+    "category": "Interest-ForcedChoice",
+    "question_text": "If your college started a new club, which would you help create?",
+    "options": [
+      "Coding/software club",
+      "Data & AI club",
+      "Robotics & electronics club",
+      "Entrepreneurship/management club",
+      "Design & art club"
+    ],
+    "correct_option": null,
+    "weight_dimension": null,
+    "option_dimension_map": {
+      "A": "interest_software",
+      "B": "interest_data",
+      "C": "interest_core_engg",
+      "D": "interest_management",
+      "E": "interest_design"
+    }
+  }
+]
